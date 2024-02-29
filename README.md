@@ -23,7 +23,7 @@ Contributing
   We welcome contributions from the community to help improve Revanced Duo. If you have ideas for new features, bug fixes, or other enhancements, please feel free to submit a pull request or open an issue on GitHub.
 
 Support
-  If you encounter any issues or have questions about using Revanced Duo, please don't hesitate to contact our support team at support@revancedduo.com.
+  If you encounter any issues or have questions about using Revanced Duo, please don't hesitate to contact our support team at [support@revancedduo.com](https://www.revanced.net/contact).
 
 License
   This project is licensed under the MIT License - see the LICENSE file for details.
