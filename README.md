@@ -2,36 +2,28 @@
 
 ![revanced.net](https://revanced.net/assets/img/android-chrome-192x192.png)
 
+Revanced Duo
+Revanced Duo is a sleek and intuitive language-learning app designed to make mastering new languages fun and accessible for everyone. Whether you're a beginner or an advanced learner, Revanced Duo offers a comprehensive platform to enhance your language skills.
 
+Features
+Interactive Lessons: Engage in interactive lessons covering vocabulary, grammar, listening, and speaking skills.
 
-Hello and welcome to the official repository for the homepage source code of [revanced.net](https://www.revanced.net). We are delighted to have you here and want to provide you with a warm introduction to what this repository is all about.
+Multiple Languages: Choose from a wide range of languages including Spanish, French, German, Japanese, and many more.
 
-## About revanced.net
+Progress Tracking: Keep track of your progress with detailed statistics and performance metrics for each language skill.
 
-At revanced.net, our primary goal is to offer a trustworthy platform where everyone can conveniently download various APKs related to ReVanced projects, as well as other modded APKs. Our aim is to provide clean and efficient installation links for your convenience.
+Customized Learning: Tailor your learning experience with personalized lesson plans based on your proficiency level and learning goals.
 
-## Our Current Offerings
+Gamification: Stay motivated with gamified elements such as streaks, achievements, and leaderboard rankings.
 
-Our repository currently hosts a range of products that you can explore and enjoy:
+Getting Started
+To get started with Revanced Duo, simply download the app from the Google Play Store and create an account. Once logged in, you can start exploring the available languages and dive into your first lesson!
 
-- **YouTube ReVanced**
-- **ReVanced Extended**
-- **YouTube Music ReVanced**
-- **MicroG**
-- **TikTok ReVanced**
-- **Lightroom ReVanced**
-- **Reddit ReVanced**
+Contributing
+We welcome contributions from the community to help improve Revanced Duo. If you have ideas for new features, bug fixes, or other enhancements, please feel free to submit a pull request or open an issue on GitHub.
 
-## What's Coming Next
+Support
+If you encounter any issues or have questions about using Revanced Duo, please don't hesitate to contact our support team at support@revancedduo.com.
 
-We are excited to share that in the upcoming period, revanced.net will gradually release source codes related to our automated build processes through continuous delivery. This strategic step is taken to eliminate any unnecessary misunderstandings regarding our website and its operations. Our ultimate aim is to build trust and confidence among our users.
-
-## How You Can Contribute
-
-We truly appreciate your support and interest in our repository. Your involvement can make a significant difference. If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request. We believe in collaboration and community, and your contribution will help us grow and improve.
-
-## Get in Touch
-
-If you have any questions, concerns, or simply want to connect with us, feel free to reach out. You can find our contact information on our [website](https://www.revanced.net/contact).
-
-Thank you for visiting our repository and for being a part of the revanced.net community. Your support means the world to us!
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
