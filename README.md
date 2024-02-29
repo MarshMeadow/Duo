@@ -1,7 +1,6 @@
 # Welcome to the Revanced Duo
 
-![revanced.net](https://revanced.net/assets/img/android-chrome-192x192.png) <img src="![image](https://github.com/MarshMeadow/Duo/assets/88599122/22cfde88-2c3e-4e1f-8e6c-f2454e208402)
-" alt="Your Logo" width="100">
+![revanced.net](https://revanced.net/assets/img/android-chrome-192x192.png)
 
 **Revanced Duo with Ad Blocking**
   Revanced Duo with Ad Blocking is a versatile language-learning app that not only helps you master new languages but also enhances your browsing experience by blocking intrusive ads and pop-ups. With built-in ad blocking technology, Revanced Duo ensures a seamless and distraction-free learning environment while you explore new languages.
