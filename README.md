@@ -20,7 +20,11 @@
 
 **Getting Started**
 
-  To get started with Revanced Duo with Ad Blocking, simply download the app from [GITHUB HERE](). Once logged in, you can start exploring the available languages and dive into your first lesson while enjoying an ad-free experience.
+  To get started with Revanced Duo with Ad Blocking, simply download the app from [GITHUB HERE](https://github.com/MarshMeadow/Duo/releases). Once logged in, you can start exploring the available languages and dive into your first lesson while enjoying an ad-free experience.
+
+**Downloads**
+
+[HERE GITHUB](https://github.com/MarshMeadow/Duo/releases) or the [revanced.net server](https://revanced.net/revanced-duolingo)
 
 **Contributing**
 
