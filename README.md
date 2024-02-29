@@ -32,7 +32,7 @@
 
 **Support**
 
-  If you encounter any issues or have questions about using Revanced Duo with Ad Blocking, please don't hesitate to contact our support team at [support@revancedduo.com](https://www.revanced.net/contact).
+  If you encounter any issues or have questions about using Revanced Duo with Ad Blocking, please don't hesitate to contact our support team at [support@revancedduo.com](https://www.revanced.net/contact) (not a real email).. 
 
 **License**
 
