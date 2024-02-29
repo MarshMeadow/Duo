@@ -6,11 +6,16 @@
   Revanced Duo with Ad Blocking is a versatile language-learning app that not only helps you master new languages but also enhances your browsing experience by blocking intrusive ads and pop-ups. With built-in ad blocking technology, Revanced Duo ensures a seamless and distraction-free learning environment while you explore new languages.
 
 Features
-- Language Learning: Engage in interactive language lessons covering vocabulary, grammar, listening, and speaking skills.
 
-- Ad Blocking: Block annoying ads and pop-ups and apps to enjoy a smoother browsing experience.
-
-- Privacy Protection: Protect your privacy and reduce tracking by blocking ad trackers and analytics scripts.
+- Super Duolingo Unlocked: Unlock all premium features for free, including unlimited hearts, streak freezes, and ad removal.
+  
+- No ads: Remove all ads from the app for a more uninterrupted learning experience.
+  
+- Unlimited Hearts: Make as many mistakes as you want without losing progress.
+  
+- Mistakes Review: Review your mistakes so you can learn from them and improve your skills.
+  
+- Unlimited attempts at Legendary challenges: Try as many times as you need to beat the hardest challenges.
 
 Getting Started
   To get started with Revanced Duo with Ad Blocking, simply download the app from [GITHUB HERE](). Once logged in, you can start exploring the available languages and dive into your first lesson while enjoying an ad-free experience.
